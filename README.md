@@ -1,6 +1,6 @@
 # SO_questions_answers
 
-The purpose of this project was to explore different metrics for Stack Overflow questions and their answers from January 2021 to June 2021.Initial data was pulled from Bigquery public stackoverflow dataset.Data was collected for two tags-python and javascript. Python and Javascript Q&A data is stored in "python-jan'21-jun'21.csv" and "javascript-jan'21-jun'21.csv" files. 2 CSV files were generated from them with 5 metrics for Python and Javascript tags named as "python_metrics.csv" and "javascript_metrics.csv". The five metrics are:
+The purpose of this project was to explore different metrics for Stack Overflow questions and their answers from January 2021 to June 2021.Initial data was pulled from Bigquery public stackoverflow dataset.Data was collected for two tags-python and javascript. Python and Javascript Q&A data is stored in "python-jan'21-jun'21.csv" and "javascript-jan'21-jun'21.csv" files.Please download them from [ this Google drive link ](https://drive.google.com/drive/folders/1k-Ri47jTRi2RF7CkpsSGvK4iYo5rGI7x?usp=sharing). 2 CSV files were generated from them with 5 metrics for Python and Javascript tags named as "python_metrics.csv" and "javascript_metrics.csv". The five metrics are:
 
 1. **View count :** How many times a question was viewd.This indicates how popular is the question
 2. **Score :** Sum of all upvotes and downvotes it received
